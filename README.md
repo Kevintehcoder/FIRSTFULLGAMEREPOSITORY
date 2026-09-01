@@ -1,6 +1,6 @@
 # FIRSTGAME Code
-Code written for my first year on an FTC robotics team, 
-implementing autonomous movement and shooter control.
+Code written for my first EVER game in unity, 
+a 2D top down dungeon explorer with 2 bosses and 3 enemies.
 
 ## Tech Used
 * C#
